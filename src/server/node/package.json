@@ -1,0 +1,19 @@
+{
+  "name": "app",
+  "version": "0.0.1",
+  "description": "Node.js CMS",
+  "main": "app.js",
+  "scripts": {
+    "test": "nodeunit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dotcarls/dotcarls-master.git"
+  },
+  "author": "Tim Carlson (dotcarls@indiana.edu)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dotcarls/dotcarls-master/issues"
+  },
+  "homepage": "https://github.com/dotcarls/dotcarls-master"
+}
